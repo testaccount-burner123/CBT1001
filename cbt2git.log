@@ -1,8 +1,8 @@
-2025-04-08 18:31:33.094585 - Received CBT.V508.FILE1001.PDS from FILE1001.XMI 
-2025-04-08 18:31:33.096568 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1001.PDS, moved to PDS/$$$#DATE
-2025-04-08 18:31:33.097272 - Found $README.txt (text/plain) in CBT.V508.FILE1001.PDS, moved to PDS/$README
-2025-04-08 18:31:33.097890 - Found @FIL1001.txt (text/plain) in CBT.V508.FILE1001.PDS, moved to PDS/@FIL1001
-2025-04-08 18:31:33.098576 - Found EXECS.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V508.FILE1001.PDS, moved to PDS/EXECS
-2025-04-08 18:31:33.099177 - Found INSTALL.jcl (text/plain) in CBT.V508.FILE1001.PDS, moved to PDS/INSTALL
-2025-04-08 18:31:33.099822 - Found INSTALLS.jcl (text/plain) in CBT.V508.FILE1001.PDS, moved to PDS/INSTALLS
-2025-04-08 18:31:33.100421 - Found PANELS.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V508.FILE1001.PDS, moved to PDS/PANELS
+2025-04-08 23:01:53.832641 - Received CBT.V508.FILE1001.PDS from FILE1001.XMI 
+2025-04-08 23:01:53.834393 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1001.PDS, moved to PDS/$$$#DATE
+2025-04-08 23:01:53.835141 - Found $README.txt (text/plain) in CBT.V508.FILE1001.PDS, moved to PDS/$README
+2025-04-08 23:01:53.835834 - Found @FIL1001.txt (text/plain) in CBT.V508.FILE1001.PDS, moved to PDS/@FIL1001
+2025-04-08 23:01:53.836585 - Found EXECS.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V508.FILE1001.PDS, moved to PDS/EXECS
+2025-04-08 23:01:53.837246 - Found INSTALL.jcl (text/plain) in CBT.V508.FILE1001.PDS, moved to PDS/INSTALL
+2025-04-08 23:01:53.837868 - Found INSTALLS.jcl (text/plain) in CBT.V508.FILE1001.PDS, moved to PDS/INSTALLS
+2025-04-08 23:01:53.838444 - Found PANELS.x-mp4a-latm (audio/x-mp4a-latm) in CBT.V508.FILE1001.PDS, moved to PDS/PANELS
